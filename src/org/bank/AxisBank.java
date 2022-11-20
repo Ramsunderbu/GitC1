@@ -6,6 +6,10 @@ public class AxisBank extends BankInfo{
 	public void deposite() {
 		System.out.println("Deposite:15%");
 		System.out.println("Branch moved to bala");
+		System.out.println("new changes by sunder");
+
+		
+
 		super.deposite();
 	}
 	public static void main(String[] args) {
